@@ -158,8 +158,7 @@ class Calculator {
             9 -> {
 
                 var result1: Double = 1.0
-                var result2
-                        : Double = 1.0
+                var result2: Double = 1.0
 
                 result1 = Math.cbrt(firstNo.toDouble())
                 result2 = Math.cbrt(secondNo.toDouble())
